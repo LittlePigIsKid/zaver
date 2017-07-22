@@ -4,7 +4,7 @@
 
 #define MAXLINE 8192
 #define SHORTLINE 512
-#define root "/Users/zjs/lifeofzjs/public"
+#define root "/home/stove/CLionProjects/zaver/src"
 
 mime_type_t zaver_mime[] = 
 {
